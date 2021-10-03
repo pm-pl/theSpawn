@@ -48,7 +48,7 @@ use-forms: "true"
 language: "en_BE"
 
 #DON'T CHANGE THIS!!
-version: "1.4.0"
+version: "1.5.0-DEV"
 
 ############################
 ##########theSpawn##########
